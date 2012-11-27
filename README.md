@@ -3,5 +3,8 @@ spacerls
 
 Linda implementation in Erlang
 
-MoSCoW
-======
+## MoSCoW
+### Must
+### Should
+### Could
+### Would (be nice)
